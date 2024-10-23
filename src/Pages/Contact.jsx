@@ -35,8 +35,8 @@ function Login() {
                 <h3 className="text-[2rem] font-bold mb-10">Opening Hours</h3>
                 <span className="bg-[#451b0d] w-[50px] h-[4px] absolute top-[33px]"></span>
                 <div className="text-[15px] font-medium text-[#646464]">
-                  <p>Mon to Fri: 7:30 am — 1:00 am</p>
-                  <p>Mon to Fri: 7:30 am — 1:00 am</p>
+                  <p>Mon to Sat: 24 hours</p>
+                  <p>Open Until All Shoes Get a Second Life</p>
                 </div>
               </div>
               {/*  */}
